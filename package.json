@@ -6,6 +6,9 @@
   "repository": "https://github.com/Vangiks/netology_guess_number.git",
   "author": "Vyduikin <i.vyduikin@mkskom.ru>",
   "license": "MIT",
+  "bin": {
+    "guess-number": "./index.js"
+  },
   "dependencies": {
     "yargs": "^17.5.1"
   }
