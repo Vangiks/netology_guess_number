@@ -1,0 +1,12 @@
+{
+  "name": "netology_guess_number",
+  "version": "1.0.0",
+  "description": "Игра \"Загадай число\" для курса Нетологии-NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/Vangiks/netology_guess_number.git",
+  "author": "Vyduikin <i.vyduikin@mkskom.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
