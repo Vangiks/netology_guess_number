@@ -1,6 +1,6 @@
 {
   "name": "netology_guess_number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Игра \"Загадай число\" для курса Нетологии-NodeJS",
   "main": "index.js",
   "repository": "https://github.com/Vangiks/netology_guess_number.git",
